@@ -1,9 +1,9 @@
-# scanorama-film-scraper
+# Scanorama film scraper
 
 A tool to scrape feature film data from Scanorama and export it to CSV format
 for Letterboxd import.
 
-This scraper was utilized to create the curated film list **[Scanorama 2024](https://letterboxd.com/mat2s/list/scanorama-2024/)** on Letterboxd.
+This scraper was used to create the curated film list **[Scanorama 2024](https://letterboxd.com/mat2s/list/scanorama-2024/)** on Letterboxd.
 
 ## Requirements
 
@@ -11,7 +11,7 @@ This scraper was utilized to create the curated film list **[Scanorama 2024](htt
 
 ## Usage
 
-1. **Run the Script**
+1. **Run the script**
 
    Use the following command to execute the script.
 
