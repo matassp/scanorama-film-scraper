@@ -1,4 +1,4 @@
-# Scanorama film scraper
+# Scanorama Film Scraper
 
 A tool to scrape feature film data from Scanorama and export it to CSV format
 for Letterboxd import.
@@ -9,7 +9,7 @@ Letterboxd.
 
 ## Compatibility with Scanorama
 
-The **Scanorama film scraper** works with the Scanorama website from 2021
+The **Scanorama Film Scraper** works with the Scanorama website from 2021
 onward. To scrape data for previous years, you need to modify the URLs in the
 `remote.ts` file.
 
@@ -24,7 +24,7 @@ onward. To scrape data for previous years, you need to modify the URLs in the
 
 ## Usage
 
-1. **Run the script**
+1. **Run the Script**
 
    Use the following command to execute the script.
 
