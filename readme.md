@@ -1,6 +1,6 @@
 # Scanorama Film Scraper
 
-A tool to scrape feature film data from Scanorama and export it to CSV format
+A tool to scrape feature film data from Scanorama and export it in CSV format
 for Letterboxd import.
 
 Scanorama is a film festival in Lithuania held annually in November.
