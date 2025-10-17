@@ -35,7 +35,7 @@ import { Remote } from "./remote.ts";
 
   await Deno.mkdir("./output", { recursive: true });
   await Deno.writeTextFile(
-    `./output/sca-2024-films-${getTimeString()}.csv`,
+    `./output/sca-2025-films-${getTimeString()}.csv`,
     arrayToCSV(films)
   );
 })();

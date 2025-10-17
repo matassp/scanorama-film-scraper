@@ -2,7 +2,7 @@ async function fetchFeatureFilms(
   { token, version }: AuthOptions
 ): Promise<FilmList> {
   const response = await fetch(
-    "https://www.scanorama.lt/lt/edition/2024?type=feature",
+    "https://www.scanorama.lt/lt/edition/2025?type=feature",
     {
       headers: {
         "x-inertia": "true",
@@ -26,7 +26,7 @@ async function fetchFilm(
   { token, version }: AuthOptions
 ): Promise<Film> {
   const response = await fetch(
-    `https://www.scanorama.lt/lt/edition/2024/films/${slug}`,
+    `https://www.scanorama.lt/lt/edition/2025/films/${slug}`,
     {
       headers: {
         "x-inertia": "true",
